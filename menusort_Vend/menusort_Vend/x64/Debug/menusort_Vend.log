@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\minec\OneDrive\Рабочий стол\menusort_Vend\menusort_Vend\mylib.h(79,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\minec\OneDrive\Рабочий стол\menusort_Vend\menusort_Vend\main.c(48,9): warning C4098: main: функция типа "void", возвращающая значение
+  menusort_Vend.vcxproj -> C:\Users\minec\OneDrive\Рабочий стол\menusort_Vend\x64\Debug\menusort_Vend.exe
